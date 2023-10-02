@@ -28,12 +28,19 @@ a {
   text-decoration: none;
 }
 
+footer {
+  text-align: center;
+  font-size: 15px;
+  line-height: 20px;
+}
+
 .weather-app {
   border: 1px solid #dadde1;
   padding: 15px;
   margin: 20px auto;
   max-width: 600px;
   border-radius: 10px;
+  margin-bottom: 0;
 }
 
 .weather-icon {
